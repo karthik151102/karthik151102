@@ -1,7 +1,3 @@
-Sure, I can help spruce up your GitHub profile bio! Here's an improved version with a bit more detail, some emojis, and a touch of aesthetic flair:
-
----
-
 ## Hi there 👋
 
 Welcome to my GitHub profile! I'm Karthik, a passionate learner currently diving into the exciting world of **Data Science**. Here's a bit about me:
