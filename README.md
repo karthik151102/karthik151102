@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Karthik, a passionate learner diving into the 
 - 🌱 **Currently learning**: Data science, machine learning, and AI techniques.
 - 👯 **Looking to collaborate on**: Open-source projects, research papers, and innovative AI solutions.
 - 💬 **Ask me about**: Python, R, SQL, and anything data-related!
-- 📫 **How to reach me**: [@karthik151102](https://github.com/karthik151102) or [Your Email/LinkedIn/Twitter].
+- 📫 **How to reach me**: [@karthik151102](https://github.com/karthik151102) 
 - ⚡ **Fun fact**: I love exploring new technologies and solving complex problems with data-driven insights.
 
 
